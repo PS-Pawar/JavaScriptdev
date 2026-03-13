@@ -1,0 +1,1 @@
+console.log("enviornment for js is succesfully setuped")
