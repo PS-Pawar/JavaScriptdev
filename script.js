@@ -342,7 +342,7 @@
 // map creates a new method it is formed the new array
  
 
- console.log("Pavan")
+//  console.log("Pavan")
 
 // const accountgId = 13244.
 // let accountgmail = "pp.gmail.com"
@@ -350,7 +350,6 @@
 
  
 // alert("hello");
-
 
 
 
